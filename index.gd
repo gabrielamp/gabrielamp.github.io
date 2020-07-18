@@ -16,6 +16,7 @@ I enjoy:
 * [D. Lopez](https://diegolopez.me)
 * [M. Darmon](https://maiadd.github.io)
 * [V. Nguyen](https://opent03.github.io)
+* [A. Brandenberger](https://abrandenberger.github.io)
 
 S. Elaidi and D. Lopez gave the following definition in their seminal work *On Gabriela Moisescu-Pareja* (2020):
 
