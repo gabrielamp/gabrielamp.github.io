@@ -1,6 +1,6 @@
 Hi there! My name is Gabriela. I'm a final year Mathematics and Computer Science student at McGill University in Montréal, Canada.
 I am currently a research assistant at the [RL Lab](http://rl.cs.mcgill.ca)/[Mila](https://mila.quebec) where I work on abstraction in reinforcement learning.
-My interests include foundations of machine learning, probability theory, abstract algebra as well as AI for climate change and social good.
+My interests include foundations of machine learning, probability theory, and abstract algebra.
 
 
 ## Cool people
